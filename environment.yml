@@ -3,6 +3,7 @@ channels:
   - gurobi
 dependencies:
   - python=2.7
+  - networkx
   - numpy
   - toolz
   - matplotlib
