@@ -1,0 +1,15 @@
+name: stochopt
+channels:
+  - gurobi
+dependencies:
+  - python=2.7
+  - numpy
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - gurobi
+  - pip:
+    - git+https://github.com/blaze/dask.git#egg=dask[complete]
