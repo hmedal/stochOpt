@@ -1,6 +1,6 @@
 # Example Binder with environment.yml
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/example-conda-environment)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/hmedal/stochopt)
 
 A Binder-compatibible repo with an `environment.yml` file.
 
